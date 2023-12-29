@@ -1,0 +1,1 @@
+{"prof_classes_found": "category", "employment_id": "category", "schedule_name": "category", "accept_kids": "bool", "address_city": "category", "experience_name": "category", "salary_from": "float32", "salary_to": "float32", "area_id": "uint16", "employer_id": "float32"}

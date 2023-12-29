@@ -1,0 +1,11 @@
+{"MONTH": "uint8",
+ "DAY": "uint8", 
+ "FLIGHT_NUMBER": "uint16",
+  "ORIGIN_AIRPORT": "category", 
+  "SCHEDULED_DEPARTURE": "uint16", 
+  "DEPARTURE_TIME": "float32", 
+  "DEPARTURE_DELAY": "float32", 
+  "AIR_TIME": "float32", 
+  "DISTANCE": "uint16", 
+  "WHEELS_ON": "float32", 
+  "SCHEDULED_ARRIVAL": "uint16"}

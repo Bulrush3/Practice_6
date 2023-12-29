@@ -1,0 +1,1 @@
+{"vin": "object", "msrp": "uint32", "askPrice": "uint32", "mileage": "uint32", "isNew": "bool", "color": "category", "interiorColor": "category", "brandName": "category", "modelName": "category", "dealerID": "uint16"}
